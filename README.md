@@ -1,4 +1,4 @@
-# Gradle-basics
+# gradle-basics
 Basic lines to insert your intro message
 // build.gradle
 
